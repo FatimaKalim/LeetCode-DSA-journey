@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
