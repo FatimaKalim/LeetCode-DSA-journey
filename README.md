@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -29,4 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/f3683841-glitch/LeetCode-DSA-journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
